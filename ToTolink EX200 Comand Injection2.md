@@ -6,6 +6,8 @@ ToTolink EX200 http://totolink.net/home/menu/detail/menu_listtpl/download/id/144
 
 link :http://totolink.net/data/upload/20210428/7979e841521515eb83b45aacf5b67f9a.zip
 
+Firmware_link :V4.0.3c.7646_B20201211
+
 #### Describe
 
 ​	downloadFile.cgi二进制文件在接收GET参数时存在命令注入漏洞，可以构造参数名进行未经身份验证的命令执行
