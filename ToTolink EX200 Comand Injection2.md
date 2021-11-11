@@ -54,9 +54,13 @@ Upgrade-Insecure-Requests: 1
 
 <img src="./img/image-20211020114301709.png" alt="image-20211020114301709" style="zoom:50%;" />
 
-2021.10.20 found this vuln
-2021.10.22 apply for vender
-2021.11.03 fix vuln
-2021.11.11 public this vuln
+##### 2021.10.20 found this vuln
+
+##### 2021.10.22 apply for vender
+
+##### 2021.11.03 fix vuln
+
+##### 2021.11.11 public this vuln
+
 
 
