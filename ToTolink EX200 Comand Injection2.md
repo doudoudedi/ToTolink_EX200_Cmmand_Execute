@@ -56,7 +56,7 @@ Upgrade-Insecure-Requests: 1
 
 2021.10.20 found this vuln
 2021.10.22 apply for vender
-
+2021.11.03 fix vuln
 2021.11.11 public this vuln
 
 
