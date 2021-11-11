@@ -12,7 +12,7 @@ Firmware_link :V4.0.3c.7646_B20201211
 
 ​	downloadFlile.cgi二进制文件在接收GET参数时存在命令注入漏洞，可以构造参数名进行未经身份验证的命令执行
 
-​	 The downloadFile.cgi binary file has a command injection vulnerability when receiving GET parameters. The parameter name can be constructed for unauthenticated command execution
+​	 The downloadFlile.cgi binary file has a command injection vulnerability when receiving GET parameters. The parameter name can be constructed for unauthenticated command execution
 
 <img src="./img/image-20211020110137084.png" alt="image-20211020110137084" style="zoom:50%;" />
 
