@@ -10,13 +10,10 @@ Firmware_link :V4.0.3c.7646_B20201211
 
 #### Describe
 
-​	downloadFlile.cgi二进制文件在接收GET参数时存在命令注入漏洞，可以构造参数名进行未经身份验证的命令执行
-
 ​	 The downloadFlile.cgi binary file has a command injection vulnerability when receiving GET parameters. The parameter name can be constructed for unauthenticated command execution
 
 <img src="./img/image-20211020110137084.png" alt="image-20211020110137084" style="zoom:50%;" />
 
-​	在downloadFile这个cgi程序中QUERY_STRING环境变量为GET请求的参数内容，所以可以控制参数名称进行命令的注入
 
 ​	In the downloadFile cgi program, the QUERY_STRING environment parameter variable is the content of the GET request, so the parameter name can be controlled for command injection
 
@@ -42,13 +39,9 @@ Upgrade-Insecure-Requests: 1
 
 #### TEXT
 
-​	本地监听801端口，浏览器访问如下网址
-
 ​	 Listen to port 801 locally, and the browser accesses the following URL 
 
 <img src="./img/image-20211020114318773.png" alt="image-20211020114318773" style="zoom:50%;" />
-
-​	可以看到无线扩展器已经成功连接到本地端口801	
 
 ​	can see that the wireless extender has successfully connected to the local port 801
 
@@ -62,7 +55,7 @@ Upgrade-Insecure-Requests: 1
 
 ##### 2021.11.03 fix vuln 
 
-The manufacturer's email indicates that the vulnerability has been fixed, but will not issue an announcement
+The manufacturer's email indicates that the vulnerability has been fixed, but maybe can't issue an announcement
 
 ##### 2021.11.11 public this vuln
 
