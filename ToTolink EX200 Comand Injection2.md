@@ -54,14 +54,17 @@ Upgrade-Insecure-Requests: 1
 
 <img src="./img/image-20211020114301709.png" alt="image-20211020114301709" style="zoom:50%;" />
 
+#### Reporting process
+
 ##### 2021.10.20 found this vuln
 
 ##### 2021.10.22 apply for vender
 
-##### 2021.11.03 fix vuln
+##### 2021.11.03 fix vuln 
+
+The manufacturer's email indicates that the vulnerability has been fixed, but will not issue an announcement
 
 ##### 2021.11.11 public this vuln
-
 
 #### CNVD-2021-85251
 https://www.cnvd.org.cn/flaw/show/CNVD-2021-85251
