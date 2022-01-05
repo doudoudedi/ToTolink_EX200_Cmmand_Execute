@@ -61,4 +61,5 @@ The manufacturer's email indicates that the vulnerability has been fixed, but ma
 
 #### CNVD-2021-85251
 https://www.cnvd.org.cn/flaw/show/CNVD-2021-85251
-
+#### CVE-2021-43711
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43711
