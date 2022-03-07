@@ -1,7 +1,4 @@
 # ToTolink EX200 Comand Injection
-#### excess
-More information can be linked to my GitHub blog
-https://doudoudedi.github.io/
 
 #### Venda && Firmware_link
 
